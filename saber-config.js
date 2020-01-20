@@ -3,10 +3,12 @@
 
 const config = {
   siteConfig: {
-    title: 'Iveta semorádová',
-    description: 'Iveta semorádová',
+    title: 'Iveta Semorádová',
+    description: 'Iveta Semorádová',
     lang: 'en',
-    author: 'Iveta Semorádová'
+    author: 'Iveta Semorádová',
+    url: 'https://ivezska.netlify.com/'
+
   },
   theme: './theme',
   themeConfig: {
@@ -20,6 +22,9 @@ const config = {
   plugins: [
     {
       resolve: './plugins/criticalCSS.js'
+    },
+    {
+      resolve: 'saber-plugin-sitemap'
     }
   ]
 }
