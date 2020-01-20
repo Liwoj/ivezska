@@ -40,16 +40,10 @@ showHeroImage: true
 * Classical guitar 🎸
 * Dance 💃
 
-<!-- <logo/> -->
 </div>
 
 <script>
-  import logo from './logo.vue'
-
   export default {
-    components: {
-      logo: logo
-    },
     data() {
       return {
         iam: [
