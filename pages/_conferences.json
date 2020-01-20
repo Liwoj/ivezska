@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Challenges in Non-Self-Adjoint Spectral Theory: Cardiff workshop",
+    "link": "https://sites.google.com/view/lms-jrg-nsa/",
+    "dateStart": "2020-04-01",
+    "place": "Cardiff, United Kingdom"
+  },
+  {
+    "title": "Mathematical aspects of non-self-adjoint operator: 10 years after",
+    "link": "http://nsa.fjfi.cvut.cz/CIRM2020/",
+    "dateStart": "2020-03-23",
+    "dateEnd": "2020-03-27",
+    "place": "Marseille, France"
+  },
+  {
+    "title": "Masterclass: Weyl's asymptotic law for the Dirichlet Laplacian",
+    "link": "https://www.lebesgue.fr/content/seminars-Masterclass19",
+    "dateStart": "2019-12-17",
+    "dateEnd": "2019-12-20",
+    "place": "Angers, France"
+  },
+  {
+    "title": "Challenges in Non-Self-Adjoint Spectral Theory: QUB workshop",
+    "link": "https://sites.google.com/view/lms-jrg-nsa/",
+    "dateStart": "2019-12-04",
+    "dateEnd": "",
+    "place": "Belfast, United Kingdom"
+  },
+  {
+    "title": "MSCR colloquim 08/11/2019",
+    "link": "http://web.am.qub.ac.uk/wp/msrc/msrc-home-page/research/past-colloquia/",
+    "dateStart": "2019-11-08",
+    "dateEnd": "",
+    "place": "Belfast, United Kingdom",
+    "talk": "Spectral approximation and generalized convergence of unbounded operators",
+    "talkLink": "http://web.am.qub.ac.uk/wp/msrc/events/20191108/"
+  },
+  {
+    "title": "Analytic and algebraic methods in physics XVI",
+    "link": "http://gemma.ujf.cas.cz/~lotoreichik/aamp16/",
+    "dateStart": "2019-09-10",
+    "dateEnd": "2019-09-13",
+    "place": "Prague, Czech Republic"
+  },
+  {
+    "title": "Studentská konference - Kombinatorika na slovech a matematická fyzika 2019",
+    "link": "http://mafia.fjfi.cvut.cz/index.php?str=cow19",
+    "dateStart": "2019-05-26",
+    "dateEnd": "2019-05-30",
+    "place": "Decín, Czech Republic",
+    "talk": "Spectrum of the Schrodinger operator with logarithmic potential in the strong coupling regime"
+  },
+  {
+    "title": "PT-Symmetry and Physics with Non-Hermitian Hamiltonians - PHHQP XIX",
+    "link": "http://www.tsimf.cn/meeting/cnshow?id=164",
+    "dateStart": "2019-03-18",
+    "dateEnd": "2019-03-22",
+    "place": "Sanya, Hainan, China",
+    "talk": "The problem of coexistence of several non-Hermtian observables in PT-symmetric quantum mechanics"
+  },
+  {
+    "title": "The 28th Student Conference 'Winter School on Mathematical Physics'",
+    "link": "http://kmlinux.fjfi.cvut.cz/~ambrop1/wsmp/main.php",
+    "dateStart": "2019-01-28",
+    "dateEnd": "2019-02-01",
+    "place": "Jánské Lázně, Czech Republic",
+    "talk": "The spectrum of the Schrodinger operator with logarithmic potential"
+  },
+  {
+    "title": "Analytic and algebraic methods in physics XV",
+    "link": "http://gemma.ujf.cas.cz/~znojil/conf/micromeetingpatnact.html",
+    "dateStart": "2018-09-10",
+    "dateEnd": "2018-09-13",
+    "place": "Prague, Czech Republic"
+  },
+  {
+    "title": "School and Workshop on Mathematical Physics 2018",
+    "link": "http://sophia.dtp.fmph.uniba.sk/~tatry/index18.html",
+    "dateStart": "2018-08-27",
+    "dateEnd": "2018-08-31",
+    "place": "Stará Lesná, Slovakia",
+    "talk": "Quantum square well with logarithmic central spike"
+  },
+  {
+    "title": "Non-Hermitian Physics - PHHQP XVIII",
+    "link": "https://www.icts.res.in/program/nhp2018",
+    "dateStart": "2018-06-04",
+    "dateEnd": "2018-06-13",
+    "place": "Bangalore, India",
+    "talk": "Klein-Gordon equation on discrete lattice"
+  },
+  {
+    "title": "BCAM course: Introduction to the theory of self-adjoint operators",
+    "link": "http://www.bcamath.org/en/courses/2018-04-16-bcam-course",
+    "dateStart": "2018-04-16",
+    "dateEnd": "2018-04-20",
+    "place": "Bilbao, Spain"
+  },
+  {
+    "title": "The 27th Student Conference 'Winter School on Mathematical Physics'",
+    "link": "http://kmlinux.fjfi.cvut.cz/~ambrop1/wsmp/main.php",
+    "dateStart": "2018-01-21",
+    "dateEnd": "2018-01-27",
+    "place": "Jánské Lázně, Czech Republic",
+    "talk": "Quantum square well with logarithmic central spike"
+  },
+  {
+    "title": "Aspect 17: Asymptotic Analysis and Spectral Theory",
+    "link": "http://math318.uni-trier.de/aspect17/",
+    "dateStart": "2017-09-25",
+    "dateEnd": "2017-09-29",
+    "place": "Trier, Germany",
+    "talk": "On the reality of the spectrum of non-selfadjoint operators"
+  },
+  {
+    "title": "School and Workshop on Mathematical Physics 2017",
+    "link": "http://sophia.dtp.fmph.uniba.sk/~tatry/index17.html",
+    "dateStart": "2017-09-15",
+    "dateEnd": "2017-09-21",
+    "place": "Stará Lesná, Slovakia",
+    "talk": "The problem of coexistence of several non-Hermtian observables in PT-symmetric quantum mechanics"
+  },
+  {
+    "title": "Analytic and algebraic methods in physics XIV",
+    "link": "http://gemma.ujf.cas.cz/~znojil/conf/micromeetingctrnact.html",
+    "dateStart": "2017-09-11",
+    "dateEnd": "2017-09-14",
+    "place": "Prague, Czech Republic"
+  },
+  {
+    "title": "Studentská konference 'Matematické metody v teorii pevných látek'",
+    "link": "http://mafia.fjfi.cvut.cz/index.php?str=mmtpl17",
+    "dateStart": "2017-07-09",
+    "dateEnd": "2017-07-13",
+    "place": "Děčín, Czech Republic",
+    "talk": "The problem of coexistence of several non-Hermtian observables in PT-symmetric quantum mechanics (in czech)"
+  },
+  {
+    "title": "VI School on Geometry and Physics",
+    "link": "http://wgmp.uwb.edu.pl/part_s.html",
+    "dateStart": "2017-06-26",
+    "dateEnd": "2017-06-30",
+    "place": "Bialowieza, Poland"
+  },
+  {
+    "title": "The XXVth International Conference on Integrable Systems and Quantum symmetries",
+    "link": "http://www.intsystems.cz/",
+    "dateStart": "2017-06-06",
+    "dateEnd": "2017-06-10",
+    "place": "Prague, Czech Republic"
+  },
+  {
+    "title": "School and Workshop on Mathematical Physics 2016: Physics in fuzzy spaces",
+    "link": "http://sophia.dtp.fmph.uniba.sk/~tatry/index16.html",
+    "dateStart": "2016-09-26",
+    "dateEnd": "2016-10-01",
+    "place": "Stará Lesná, Slovakia",
+    "talk": "Time evolution in crypto-Hermitian quantum mechanics"
+  },
+  {
+    "title": "The 25th Student Conference 'Winter School on Mathematical Physics'",
+    "link": "http://kmlinux.fjfi.cvut.cz/~ambrop1/wsmp/main.php",
+    "dateStart": "2016-01-24",
+    "dateEnd": "2016-01-30",
+    "place": "Jánské Lázně, Czech Republic",
+    "talk": "Time-dependent metrics in crypto-Hermitian quantum mechanics"
+  },
+  {
+    "title": "8th Student Colloquium and School on Mathematical Physics",
+    "link": "http://sophia.dtp.fmph.uniba.sk/~tatry/index15.html",
+    "dateStart": "2015-08-16",
+    "dateEnd": "2015-08-22",
+    "place": "Stará Lesná, Slovakia",
+    "talk": "Krypto-Hermitovská interpretace Klein-Gordonovy rovnice (in czech)"
+  },
+  {
+    "title": "The 24th Student Conference 'Winter School on Mathematical Physics'",
+    "link": "http://kmlinux.fjfi.cvut.cz/~ambrop1/wsmp/main.php",
+    "dateStart": "2015-01-25",
+    "dateEnd": "2015-01-31",
+    "place": "Jánské Lázně, Czech Republic",
+    "talk": "Crypto-Hermitian interpretation of Klein-Gordon equation"
+  },
+  {
+    "title": "International School Advanced Methods of Modern Theoretical Physics: Integrable and Stochastic Systems",
+    "link": "http://dubnaschool.cz/2014/",
+    "dateStart": "2014-08-02",
+    "dateEnd": "2014-08-09",
+    "place": "JINR Dubna, Russia"
+  }
+]

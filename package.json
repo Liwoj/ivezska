@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "saber",
+    "build": "saber build",
+    "serve": "saber serve --port 3030"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.0.4",
+    "autoprefixer": "^9.7.4",
+    "node-sass": "^4.13.1",
+    "saber": "^0.11.5",
+    "saber-plugin-critical": "^1.0.2",
+    "saber-plugin-sitemap": "^0.4.0",
+    "sass-loader": "^7.3.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bulma": "^0.8.0",
+    "date-fns": "^2.9.0",
+    "nprogress": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "browserslist": [
+    "ie > 10",
+    "last 2 versions"
+  ]
+}
