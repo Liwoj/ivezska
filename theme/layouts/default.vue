@@ -20,8 +20,6 @@
 <script>
 import SiteHeader from '../components/Header.vue'
 import SiteFooter from '../components/Footer.vue'
-// import photo from './images/jaderka.jpg'
-import photo from '@/pages/images/jaderka.jpg'
 
 export default {
   name: 'default-layout',
@@ -32,13 +30,13 @@ export default {
   props: ['page'],
   computed: {
     heroStyle() {
-      return this.page.showHeroImage ? `background: url('${photo}') no-repeat center center; background-size: cover;` : ''
+      return this.page.heroImage ? `background: url('${require('@/pages/images/'+ this.page.heroImage)}') no-repeat center center; background-size: cover;` : ''
     },
     heroClass() {
-      let cl = [];
-      !this.page.showHeroImage && cl.push('is-bold');
-      cl.push(this.page.heroSize ? this.page.heroSize : 'is-medium')
-      return cl
+      return [
+        {'is-bold' : !this.page.heroImage },
+        this.page.heroSize || 'is-medium'
+      ]
     }
   },
   head() {

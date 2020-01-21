@@ -3,7 +3,7 @@ layout: default
 heroTitle: "Hello, my name is Iveta Semorádová"
 heroSubtitle: "I ❤️ math! Welcome to the site devoted to my scientific activities..."
 heroSize: "is-medium"
-showHeroImage: true
+heroImage: jaderka.jpg
 ---
 <!-- <template v-slot:hero> -->
 <!-- </template> -->

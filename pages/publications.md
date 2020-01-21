@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-heroTitle: "Publications"
+heroTitle: "My publications"
 heroSize: is-small
 ---
 <div class="container content">
