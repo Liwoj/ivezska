@@ -1,9 +1,13 @@
 ---
-title: Publications
+title: My publications
 layout: default
-heroTitle: "My publications"
-heroSize: is-small
+heroTitle: 
+heroSize: 
 ---
+<main-hero
+  :title="$page.title"
+  size="is-small"
+/>
 <div class="container content">
   <ol reversed>
     <li v-for="pub in publications">
