@@ -1,9 +1,11 @@
 <template>
-  <section v-if="title" class="hero" :class="heroClass" :style="heroStyle">
+  <section class="hero" :class="heroClass" :style="heroStyle">
     <div class="hero-body">
       <div class="container">
-        <h2 v-if="title" class="title">{{ title }}</h2>
-        <h3 v-if="subtitle" class="subtitle">{{ subtitle }}</h3>
+        <slot>
+          <h2 v-if="title" class="title">{{ title }}</h2>
+          <h3 v-if="subtitle" class="subtitle">{{ subtitle }}</h3>
+        </slot>
       </div>
     </div>
   </section>
@@ -20,8 +22,7 @@ export default {
       type: String
     },
     size: {
-      type: String,
-      default: 'is-small'
+      type: String
     },
     additionalClasses: {
       type: Array,
@@ -46,6 +47,3 @@ export default {
   }
 };
 </script>
-
-<style lang="scss" scoped>
-</style>

@@ -1,12 +1,9 @@
 ---
 title: My publications
 layout: default
-heroTitle: 
-heroSize: 
 ---
 <main-hero
   :title="$page.title"
-  size="is-small"
 />
 <div class="container content">
   <ol reversed>

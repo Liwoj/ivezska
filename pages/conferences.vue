@@ -2,7 +2,6 @@
   <div>
     <main-hero
       :title="page.title"
-      size="is-small"
     />
     <div class="container section">
       <div class="columns is-multiline">

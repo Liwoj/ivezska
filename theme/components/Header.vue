@@ -35,7 +35,8 @@ export default {
       nav: [
         { title: 'Home', link: '/', iconClass: 'fas fa-home' },
         { title: 'Publications', link: '/publications.html', iconClass: 'fas fa-book' },
-        { title: 'Conferences', link: '/conferences.html', iconClass: 'fas fa-comments' }
+        { title: 'Conferences', link: '/conferences.html', iconClass: 'fas fa-comments' },
+        { title: 'About Me', link: '/about.html', iconClass: 'fas fa-user' }
       ]
     }
   },
