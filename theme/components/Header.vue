@@ -5,13 +5,13 @@
               <a href="/" class="navbar-item">
                   {{ $siteConfig.author }}
               </a>
-              <a role="button" class="navbar-burger burger" :class="{ 'is-active': menuVisible }" aria-label="menu" aria-expanded="false" @click="menuVisible = !menuVisible">
+              <a role="button"  @click="menuVisible = !menuVisible" class="navbar-burger burger" :class="{ 'is-active': menuVisible }" aria-label="menu" :aria-expanded="menuVisible.toString()" aria-controls="expandable">
                   <span aria-hidden="true"></span>
                   <span aria-hidden="true"></span>
                   <span aria-hidden="true"></span>
               </a>
           </div>
-          <div class="navbar-menu" :class="{ 'is-active': menuVisible }">
+          <div class="navbar-menu" :class="{ 'is-active': menuVisible }" id="expandable">
             <div class="navbar-start">
               <saber-link v-for="route in nav" :key="route.link" :to="route.link" class="navbar-item">
                 <span>
