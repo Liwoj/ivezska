@@ -16,10 +16,9 @@
 
           <div class="content is-small has-text-centered">
               <p>
-                &copy; {{ year }} {{ $siteConfig.author }} &bull; Build with ❤️ by <a href="https://github.com/Liwoj">Michal Levý</a> using <a href="https://saber.land">Saber</a>, <a href="https://vuejs.org/">Vue</a> and <a href="https://bulma.io/">Bulma</a>
-                <template v-if="buildInfo">
-                  {{ buildInfo }}
-                </template>
+                &copy; {{ year }} {{ $siteConfig.author }} &bull; Build with ❤️ by <a href="https://github.com/Liwoj">Michal Levý</a>
+                using <a href="https://saber.land">Saber</a>, <a href="https://vuejs.org/">Vue</a> and <a href="https://bulma.io/">Bulma</a>
+                <template v-if="buildInfo" v-html="buildInfo" />
               </p>
           </div>
       </div>
