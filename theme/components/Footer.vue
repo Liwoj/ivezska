@@ -15,7 +15,12 @@
           {% endif %} -->
 
           <div class="content is-small has-text-centered">
-              <p class="">&copy; {{ year }} {{ $siteConfig.author }} &bull; Build with ❤️ by <a href="https://github.com/Liwoj">Michal Levý</a> using <a href="https://saber.land">Saber</a>, <a href="https://vuejs.org/">Vue</a> and <a href="https://bulma.io/">Bulma</a></p>
+              <p>
+                &copy; {{ year }} {{ $siteConfig.author }} &bull; Build with ❤️ by <a href="https://github.com/Liwoj">Michal Levý</a> using <a href="https://saber.land">Saber</a>, <a href="https://vuejs.org/">Vue</a> and <a href="https://bulma.io/">Bulma</a>
+                <template v-if="buildInfo">
+                  {{ buildInfo }}
+                </template>
+              </p>
           </div>
       </div>
   </footer>
@@ -25,7 +30,8 @@
 export default {
   data() {
     return {
-      year: new Date().getFullYear()
+      year: new Date().getFullYear(),
+      buildInfo: process.env.NETLIFY ? `&bull; (<a href="${process.env.REPOSITORY_URL}">repo</a> - <a href="${process.env.REPOSITORY_URL}/commit/${process.env.COMMIT_REF}">commit: ${process.env.COMMIT_REF}</a>)` : null
     }
   }
 }
