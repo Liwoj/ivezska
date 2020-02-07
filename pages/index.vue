@@ -65,10 +65,10 @@
           <div class="title is-4 has-text-centered">Tell it in math...</div>
           <div class="columns is-multiline is-centered is-vcentered">
             <div class="column is-6 has-text-centered">
-              <img src="@/images/equation.svg" class="equation" alt='r(\varphi) = 2 - 2sin(\varphi) + \frac{sin(\varphi) |cos(\varphi)|^{\frac{1}{2}}}{sin(\varphi) + 1.4}' />
+              <img svg-inline src="@/images/equation.svg" class="equation" alt='r(\varphi) = 2 - 2sin(\varphi) + \frac{sin(\varphi) |cos(\varphi)|^{\frac{1}{2}}}{sin(\varphi) + 1.4}' />
             </div>
             <div class="column is-6 has-text-centered">
-              <img src="@/images/graph.svg" class="graph" alt='Plotted graph of previous function ....nice red hearth' />
+              <img svg-inline src="@/images/graph.svg" class="graph" alt='Plotted graph of previous function ....nice red hearth' />
             </div>
           </div>
         </div>
@@ -132,5 +132,9 @@ export default {
 
 .graph {
   max-width: 500px;
+}
+.graph .axis-text {
+  font-family: Arial,Helvetica,Geneva,sans-serif;
+  font-size: 0.7em;
 }
 </style>
