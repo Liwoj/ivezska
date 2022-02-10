@@ -9,7 +9,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.0.4",
     "autoprefixer": "^9.7.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "saber": "^0.11.5",
     "saber-plugin-critical": "^1.0.2",
     "saber-plugin-sitemap": "^0.4.0",
