@@ -1,10 +1,3 @@
-# My GF's professional site
-
-I'v created this site for my amazing girlfriend Ivet. She is really smart math/physics scientist without experience with building modern web sites.
-My goal was to create a site which is beatiful, responsive, fast, staticaly generated (but still dynamic on client) and easy to maintain for non-programmer.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c7b342fa-a2d2-48b4-a3ca-61c104a76fcc/deploy-status)](https://app.netlify.com/sites/ivezska/deploys)
-
 ## Tools in use
 
 - [Saber](https://saber.land) for static HTML generation, Markdown integration and more...
